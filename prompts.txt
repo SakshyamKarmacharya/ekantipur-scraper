@@ -1,0 +1,7 @@
+1. I inspected ekantipur.com and noticed inconsistent class names in the entertainment section. Based on semantic HTML, what is a robust Playwright selector strategy to extract article title, image, and author without using XPath?
+
+2. Some images are lazy-loaded and use attributes like data-src instead of src. What is the safest way in Playwright to extract image URLs while handling relative paths?
+
+3. The "Cartoon of the Day" does not have a fixed container. What heuristic approach would you recommend to locate it using image attributes or nearby text?
+
+4. Can you review my scraping approach at a high level and suggest one or two improvements focused on stability rather than performance?

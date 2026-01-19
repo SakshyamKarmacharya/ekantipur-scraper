@@ -1,0 +1,39 @@
+{
+  "entertainment_news": [
+    {
+      "title": "कान्तिपुरको 'रेडियो अन ह्विल्स' मा झुम्यो लहान",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/20260119165918-1912026031204-1000x0.jpg&w=301&h=0",
+      "category": "मनोरञ्जन",
+      "author": "विनय आजाद"
+    },
+    {
+      "title": "'क्वेयर फिल्म फेस्टिभल'मा १७० फिल्म",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/img6253-1912026110155-1000x0.jpg&w=301&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "तनहुँमा ‘सिनेमा साक्षात्कार’",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/whatsapp-image-2026-01-19-at-141328-1912026104110-1000x0.jpg&w=301&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "राष्ट्रिय बाल नाटक महोत्सव माघ २६ देखि",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/-1912026103140-1000x0.png&w=301&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "‘रेडियो अन ह्विल्स’मा झुम्यो विराटनगर",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/img6694-1812026034820-1000x0.jpg&w=301&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "व्यंग्यिचित्र",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-821004-1812026024315-1000x0.jpg&w=301&h=0",
+    "author": null
+  }
+}
